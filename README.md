@@ -1,2 +1,3 @@
 # hello-world
-This is the first trial
+
+This is Gerhard doing first steps on Github
